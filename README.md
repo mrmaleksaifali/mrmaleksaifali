@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malek Saif ali</h1>
+<h1 align="center">Hi 👋, I'm Malek Saif Ali</h1>
 <h3 align="center">A Passionate DevOps Engineer From India</h3>
 
 <p align="center">
@@ -67,7 +67,6 @@
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="SonarQube" width="110" height="60"/>
 </p>
-
 
 ---
 
