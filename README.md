@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meet Parmar</h1>
+<h1 align="center">Hi 👋, I'm Malek Saif ali</h1>
 <h3 align="center">A Passionate DevOps Engineer From India</h3>
 
 <p align="center">
@@ -16,10 +16,9 @@
 ---
 
 - 🌱 I’m currently learning **Openshift**  
-- 🤝 I’m looking for help with **DevOps**  
-- 👨‍💻 All of my projects are available at: [meetparmar.com](https://meetparmar.com)  
+- 🤝 I’m looking for help with **DevOps**   
 - 💬 Ask me about **DevOps**  
-- 📫 Reach me at: **meetparmar14790@gmail.com**  
+- 📫 Reach me at: **maleksaifali786@gmail.com**  
 - 📄 Know about my experiences: [GitHub Resume Repo](https://github.com/Meet01234/Meet_Parmar_Resume.git)  
 - ⚡ Fun fact: **I Create GitHub Repos**
 
